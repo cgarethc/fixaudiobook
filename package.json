@@ -1,0 +1,19 @@
+{
+  "name": "fixaudiobook",
+  "version": "1.0.0",
+  "description": "Fix audiobook naming left behind by iTunes rip",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgarethc/fixaudiobook.git"
+  },
+  "author": "Gareth Cronin",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/cgarethc/fixaudiobook/issues"
+  },
+  "homepage": "https://github.com/cgarethc/fixaudiobook#readme",
+  "dependencies": {
+    "read-id3-tags": "^1.1.0"
+  }
+}
